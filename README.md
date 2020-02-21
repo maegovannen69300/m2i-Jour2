@@ -5,7 +5,7 @@ Oh yeah !
 This is owesome !
 This is an owesome project !
 
-Read following text please:
+Read following text please :
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lectus felis, viverra nec eros id, tristique luctus leo. Duis fermentum tortor non orci vulputate, eget cursus elit posuere. Suspendisse vitae nunc nisi. Vestibulum egestas risus nec justo varius volutpat. Nullam non vestibulum dui, et aliquet velit. Vestibulum dapibus, mauris quis facilisis faucibus, dolor justo feugiat felis, sed porttitor dolor felis sit amet sapien. In bibendum, felis sed efficitur bibendum, risus eros sodales augue, vel bibendum ipsum lacus quis metus. Cras congue massa a dui mattis interdum. Pellentesque eu quam tempor, aliquet est at, maximus sem. Fusce a suscipit sapien. Quisque nec posuere quam, et sodales justo. Duis gravida vulputate urna, id placerat ex tristique convallis. Fusce tristique neque sed sem sagittis, in venenatis lacus tempor.
 
