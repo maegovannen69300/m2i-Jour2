@@ -1,0 +1,22 @@
+From 64b2fd1a399ae6375ef61df6cb0f63c10a737289 Mon Sep 17 00:00:00 2001
+From: "jeremy.laurent@cegid.com" <jeremy.laurent@cegid.com>
+Date: Fri, 21 Feb 2020 09:51:00 +0100
+Subject: [PATCH 1/2] Hotfix de ReadMe
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index 166aab2..98dfd93 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,4 @@
+ # m2i-Jour2
+ m2i-Jour2
++
++This is an owesome project !
+\ No newline at end of file
+-- 
+2.25.0.windows.1
+

@@ -1,0 +1,24 @@
+From 1acb25312fdce23261ef11f4c7174c9413e6e238 Mon Sep 17 00:00:00 2001
+From: "jeremy.laurent@cegid.com" <jeremy.laurent@cegid.com>
+Date: Fri, 21 Feb 2020 09:52:01 +0100
+Subject: [PATCH 2/2] =?UTF-8?q?Hotfix=20des=20autres=20=C3=A9l=C3=A9ments?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ .gitignore    | 0
+ logs/.gitkeep | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 logs/.gitkeep
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/logs/.gitkeep b/logs/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.25.0.windows.1
+
