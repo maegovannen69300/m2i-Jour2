@@ -5,3 +5,5 @@ Oh yeah !
 This is owesome !
 This is an owesome project !
 
+Generate a conflict here
+Ah, I'm bad !
